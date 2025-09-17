@@ -13,6 +13,8 @@ public class Formatting {
         System.out.printf("the value of given 9*8=%d%n", n * 8);
         System.out.printf("the value of given 9*9=%d%n", n * 9);
         System.out.printf("the value of given 9*10=%d%n", n * 10);
+        System.out.print("The End");
+        System.out.println(".");
     }
 }
 
